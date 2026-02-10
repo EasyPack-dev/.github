@@ -1,1 +1,1 @@
-# http://easypack.dev/
+# https://easypack.dev/
